@@ -1,0 +1,44 @@
+body{
+    background-color: skyblue;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.quiz{
+    text-align: center;
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+}
+
+h3{
+    font-size: 30px;
+    text-align: center;
+}
+
+#options{
+    margin-left: 45%;
+}
+
+.button a{
+    padding: 20px;
+    display: inline-block;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+    border: 1px solid;
+    text-align: center;
+}
+
+.button{
+    padding: 20px 0 20px 0;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.break{
+    border: 2px solid black;
+}
