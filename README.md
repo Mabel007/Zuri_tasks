@@ -10,4 +10,6 @@
 
 ### Getting familiar with CSS selectors(classes and ID's), some commonly used properties, like margin, padding, border, background-color, fonts etc.
 
-### Task 2 is to create and populate a table. The description can be found in the table.txt file. The aim is to know how to create and use table elements like thead, th, tr, td, and attributeslike cell spacing, cell padding, and border. Here again I made use of css selectors and properties.
+### Task 2 is to create and populate a table. The description can be found in the table.txt file. The aim is to know how to create and use table elements like thead, th, tr, td, and attributes like cell spacing, cell padding, and border. Here again I made use of css selectors and properties.
+
+### The next task I'm solving is the tribute page. I am designing an html page that will serve as a tribute about the person i admire most. It will have a title, heading, description(detail), an img and img caption. A timeline that will be in the form of a list. A link that will lead to the biography of the tribute. And I will explore other tags like small, figcaption, strong, blockquotes and figure.
